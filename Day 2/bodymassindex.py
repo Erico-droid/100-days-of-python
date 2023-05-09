@@ -5,3 +5,6 @@ height = float(input("What is your height in metres? "))
 
 bmi = weight / height ** 2
 print(int(bmi))
+
+# PEMDASLR
+# BODMAS
